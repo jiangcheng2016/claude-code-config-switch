@@ -68,7 +68,7 @@ When using Claude AI services, you may encounter these challenges:
 
 ```bash
 # 1. Navigate to project directory
-cd /path/to/config_switch
+cd /path/to/claude-code-config-switch
 
 # 2. Run installation script
 ./install.sh

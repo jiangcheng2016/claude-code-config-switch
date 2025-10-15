@@ -67,7 +67,7 @@
 
 ```bash
 # 1. 进入项目目录
-cd /path/to/config_switch
+cd /path/to/claude-code-config-switch
 
 # 2. 运行安装脚本
 ./install.sh
@@ -89,8 +89,8 @@ cswitch status            # 查看当前状态
 
 ```bash
 # 下载并安装
-git clone https://github.com/user/claude-switch.git
-cd claude-switch
+git clone https://github.com/jiangcheng2016/claude-code-config-switch.git
+cd claude-code-config-switch
 ./install.sh
 ```
 
@@ -408,7 +408,7 @@ cswitch --verbose status
 
 ### 贡献方式
 
-1. **🐛 报告问题**: 在 [Issues](https://github.com/user/claude-switch/issues) 中报告bug
+1. **🐛 报告问题**: 在 [Issues](https://github.com/jiangcheng2016/claude-code-config-switch/issues) 中报告bug
 2. **💡 提出建议**: 分享您的想法和改进建议
 3. **📝 改进文档**: 帮助完善文档和示例
 4. **💻 贡献代码**: 提交pull request
@@ -418,7 +418,7 @@ cswitch --verbose status
 ```bash
 # 克隆项目
 git clone https://github.com/jiangcheng2016/claude-code-config-switch.git
-cd claude-switch
+cd claude-code-config-switch
 
 # 安装开发依赖
 ./dev-setup.sh
@@ -565,7 +565,7 @@ limitations under the License.
 **🌟 如果这个工具对您有帮助，请给我一个Star！**
 
 [![GitHub stars](https://img.shields.io/github/stars/jiangcheng2016/claude-code-config-switch.svg?style=social&label=Star)](https://github.com/jiangcheng2016/claude-code-config-switch)
-[![GitHub forks](https://img.shields.io/github/forks/jiangcheng2016/claude-code-config-switch.svg?style=social&label=Fork)](https://github.com/YOUR_USERNAME/claude-switch/fork)
+[![GitHub forks](https://img.shields.io/github/forks/jiangcheng2016/claude-code-config-switch.svg?style=social&label=Fork)](https://github.com/jiangcheng2016/claude-code-config-switch/fork)
 
 Made with ❤️ by the Jiangchengc
 
